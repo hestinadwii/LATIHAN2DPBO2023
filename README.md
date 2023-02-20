@@ -20,7 +20,7 @@ Class Human merupakan parent class atau kelas induk. Hal ini dikarenakan class H
   -> Method: Konstruktor, set, dan get
   
 ### class Sivitas
-Class Sivitas merupakan child class atau kelas anak. Hal ini dikarenakan class di bawahnya (class Mahasiswa) merupakan salah atu dari komponen dari Sivitas Akademik (selain dosen).
+Class Sivitas merupakan child class atau kelas anak. Hal ini dikarenakan class di bawahnya (class Mahasiswa) merupakan salah satu dari komponen dari Sivitas Akademik (selain dosen).
 
   -> Atribut: asal_univ dan email_edu
   
